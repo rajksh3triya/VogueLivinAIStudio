@@ -1,0 +1,14 @@
+{
+  "name": "voguelivin-desktop",
+  "version": "1.0.0",
+  "description": "VogueLivin AI Studio Desktop",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Raj",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^43.1.0"
+  }
+}
